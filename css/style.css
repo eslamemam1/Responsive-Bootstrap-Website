@@ -1,0 +1,187 @@
+.main {
+    background-image: url("../images/bg.jpg");
+    background-position: top;
+    background-size: cover;
+    background-color: rgb(0, 0, 0, 0.1);
+    background-blend-mode: darken;
+}
+
+.bg {
+    background-color: rgba(25, 135, 84, 0.5);
+}
+
+.bg:hover {
+    background-color: rgb(255, 94, 0);
+}
+
+.sec-contaner {
+    position: relative;
+    transition: all 1s;
+}
+
+.sec {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.sec img {
+    margin-left: 15px;
+}
+
+.img-sec {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.sec-2,
+.sec-3 {
+    min-height: 400px;
+}
+
+.sec-2-card {
+    height: 300px;
+}
+
+.sec-2-card img {
+    height: 100px;
+    width: 150px;
+}
+
+.sec-2-card h4 {
+    color: rgb(255, 94, 0);
+}
+
+.sec3-img1 {
+    background-image: url("../images/about-pic1.jpg");
+    background-position: top;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.2);
+    background-blend-mode: darken;
+}
+
+.sec3-img2 {
+    background-image: url("../images/about-pic2.jpg");
+    background-position: top;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.2);
+    background-blend-mode: darken;
+}
+
+.sec3-img3 {
+    background-image: url("../images/about-pic3.jpg");
+    background-position: top;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.2);
+    background-blend-mode: darken;
+}
+
+.bg-orang {
+    background-color: orangered;
+}
+
+.sec4-imd {
+    background-image: url("../images/process-bg.jpg");
+    background-position: center;
+    background-size: cover;
+    min-height: 400px;
+}
+
+.sec4 {
+    min-height: 400px;
+}
+
+.sec4-img1 {
+    background-image: url("../images/p-bg1.jpg");
+    background-position: top;
+    background-size: cover;
+    height: 200px;
+}
+
+.sec4-img2 {
+    background-image: url("../images/p-bg2.jpg");
+    background-position: top;
+    background-size: cover;
+    height: 200px;
+}
+
+.sec4-img3 {
+    background-image: url("../images/p-bg3.jpg");
+    background-position: top;
+    background-size: cover;
+    height: 200px;
+}
+
+.sec4-img4 {
+    background-image: url("../images/p-bg4.jpg");
+    background-position: top;
+    background-size: cover;
+    height: 200px;
+}
+
+.sec3-img5 {
+    background-image: url("../images/portpic2.jpg");
+    background-position: top;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.2);
+    background-blend-mode: darken;
+}
+.sec3-img6 {
+    background-image: url("../images/portpic3.jpg");
+    background-position: top;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.2);
+    background-blend-mode: darken;
+}
+.sec3-img7 {
+    background-image: url("../images/portpic4.jpg");
+    background-position: top;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.2);
+    background-blend-mode: darken;
+}
+.sec3-img8 {
+    background-image: url("../images/portpic5.jpg");
+    background-position: top;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.2);
+    background-blend-mode: darken;
+}
+.sec3-img9 {
+    background-image: url("../images/portpic6.jpg");
+    background-position: top;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.2);
+    background-blend-mode: darken;
+}
+.sec3-img10 {
+    background-image: url("../images/portpic7.jpg");
+    background-position: top;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.2);
+    background-blend-mode: darken;
+}
+.sec3-img11 {
+    background-image: url("../images/portpic8.jpg");
+    background-position: top;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.2);
+    background-blend-mode: darken;
+}
+.sec3-img12 {
+    background-image: url("../images/portpic9.jpg");
+    background-position: top;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.2);
+    background-blend-mode: darken;
+}
+.sec3-img13 {
+    background-image: url("../images/portpic1.jpg");
+    background-position: top;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.2);
+    background-blend-mode: darken;
+}
